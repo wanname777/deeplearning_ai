@@ -119,3 +119,4 @@ plt.plot(epochs, val_loss, label='val_loss')
 plt.title('Loss')
 plt.legend()
 plt.show()
+

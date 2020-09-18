@@ -87,3 +87,4 @@ model.fit(train_generator,
           validation_data=validation_generator,
           validation_steps=8)
 # model.evaluate(validation_generator)
+

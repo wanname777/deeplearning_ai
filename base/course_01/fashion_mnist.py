@@ -23,3 +23,4 @@ model.compile(optimizer=tf.optimizers.Adam(),
               metrics=tf.metrics.sparse_categorical_accuracy)
 model.fit(training_images, training_labels, epochs=5)
 model.evaluate(test_images, test_labels)
+

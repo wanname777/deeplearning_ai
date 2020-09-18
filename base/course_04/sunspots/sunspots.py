@@ -85,3 +85,4 @@ print(tf.keras.metrics.mae(x_valid, rnn_forecast).numpy())
 if __name__ == '__main__':
     print(1)
     print("nihao")
+

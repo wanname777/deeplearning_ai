@@ -128,3 +128,4 @@ series = autocorrelation(signal, {1: 0.70, 50: 0.2})
 plot_series(time, series, is_show=False)
 plt.plot(time, signal, 'k-')
 plt.show()
+

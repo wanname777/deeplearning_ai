@@ -102,3 +102,4 @@ def plot_graphs(history, string):
 
 plot_graphs(history, "accuracy")
 plot_graphs(history, "loss")
+

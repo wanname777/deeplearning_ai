@@ -134,3 +134,4 @@ plot_series(time_valid, results, is_fig=False)
 
 print(tf.keras.metrics.mse(x_valid, results).numpy())
 print(tf.keras.metrics.mae(x_valid, results).numpy())
+
